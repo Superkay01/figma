@@ -438,5 +438,6 @@ marging-left:15cm;
 }
 .fig iframe{
 	border: none;
+	float:right
 }
 
